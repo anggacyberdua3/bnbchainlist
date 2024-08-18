@@ -2,7 +2,7 @@
   {
     "name": "BNB Smart Chain Mainnet",
     "chain": "BSC",
-    "rpc": [
+    "rpc": [0x0000000000000000000000000000000000001000
       "https://bsc.nodereal.io",
       "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
       "https://bsc-dataseed.binance.org/",
